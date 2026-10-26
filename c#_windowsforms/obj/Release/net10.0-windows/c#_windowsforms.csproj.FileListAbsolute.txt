@@ -1,0 +1,17 @@
+C:\Users\4tp gr2\Desktop\c#_windowsforms\bin\Release\net10.0-windows\c#_windowsforms.exe
+C:\Users\4tp gr2\Desktop\c#_windowsforms\bin\Release\net10.0-windows\c#_windowsforms.deps.json
+C:\Users\4tp gr2\Desktop\c#_windowsforms\bin\Release\net10.0-windows\c#_windowsforms.runtimeconfig.json
+C:\Users\4tp gr2\Desktop\c#_windowsforms\bin\Release\net10.0-windows\c#_windowsforms.dll
+C:\Users\4tp gr2\Desktop\c#_windowsforms\bin\Release\net10.0-windows\c#_windowsforms.pdb
+C:\Users\4tp gr2\Desktop\c#_windowsforms\obj\Release\net10.0-windows\c__windowsforms.Form1.resources
+C:\Users\4tp gr2\Desktop\c#_windowsforms\obj\Release\net10.0-windows\c#_windowsforms.csproj.GenerateResource.cache
+C:\Users\4tp gr2\Desktop\c#_windowsforms\obj\Release\net10.0-windows\c#_windowsforms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\4tp gr2\Desktop\c#_windowsforms\obj\Release\net10.0-windows\c#_windowsforms.AssemblyInfoInputs.cache
+C:\Users\4tp gr2\Desktop\c#_windowsforms\obj\Release\net10.0-windows\c#_windowsforms.AssemblyInfo.cs
+C:\Users\4tp gr2\Desktop\c#_windowsforms\obj\Release\net10.0-windows\c#_windowsforms.csproj.CoreCompileInputs.cache
+C:\Users\4tp gr2\Desktop\c#_windowsforms\obj\Release\net10.0-windows\c#_windowsforms.dll
+C:\Users\4tp gr2\Desktop\c#_windowsforms\obj\Release\net10.0-windows\refint\c#_windowsforms.dll
+C:\Users\4tp gr2\Desktop\c#_windowsforms\obj\Release\net10.0-windows\c#_windowsforms.pdb
+C:\Users\4tp gr2\Desktop\c#_windowsforms\obj\Release\net10.0-windows\c#_windowsforms.genruntimeconfig.cache
+C:\Users\4tp gr2\Desktop\c#_windowsforms\obj\Release\net10.0-windows\ref\c#_windowsforms.dll
+C:\Users\4tp gr2\Desktop\c#_windowsforms\obj\Release\net10.0-windows\c#_windo.427C1CC4.Up2Date
