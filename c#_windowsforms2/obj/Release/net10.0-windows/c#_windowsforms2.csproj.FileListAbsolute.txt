@@ -1,0 +1,6 @@
+C:\Users\4tp gr2\Desktop\c#_windowsforms2\obj\Release\net10.0-windows\c__windowsforms2.Form1.resources
+C:\Users\4tp gr2\Desktop\c#_windowsforms2\obj\Release\net10.0-windows\c#_windowsforms2.csproj.GenerateResource.cache
+C:\Users\4tp gr2\Desktop\c#_windowsforms2\obj\Release\net10.0-windows\c#_windowsforms2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\4tp gr2\Desktop\c#_windowsforms2\obj\Release\net10.0-windows\c#_windowsforms2.AssemblyInfoInputs.cache
+C:\Users\4tp gr2\Desktop\c#_windowsforms2\obj\Release\net10.0-windows\c#_windowsforms2.AssemblyInfo.cs
+C:\Users\4tp gr2\Desktop\c#_windowsforms2\obj\Release\net10.0-windows\c#_windowsforms2.csproj.CoreCompileInputs.cache
